@@ -8,8 +8,8 @@ centos6.3下安装codeblock简单多了，这些开源的软件也都在不断�
 ### 2 
 https://www.cnblogs.com/xuyuan77/p/5587174.html
 
-## codeblocks官网下载链接：
+### codeblocks官网下载链接：
 http://www.codeblocks.org/downloads/26#linux
 
-## wxGTK下载列表（codeblock的IDE依赖wxGTK，也许我们console不需要）：
+### wxGTK下载列表（codeblock的IDE依赖wxGTK）：
 http://rpm.pbone.net/index.php3/stat/3/srodzaj/1/search/wxGTK-devel(x86-64)
